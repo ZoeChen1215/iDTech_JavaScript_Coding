@@ -1,4 +1,4 @@
-/ pos is the PacMan image position variable- it is set to 0 initially
+//pos is the PacMan image position variable- it is set to 0 initially
 var pos = 0;
 //pageWidth is the width of the webpage. This is later used to calculate when Pac-Man needs to turn around. 
 let pageWidth = window.innerWidth;
